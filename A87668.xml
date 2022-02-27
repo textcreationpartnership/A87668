@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Solomons's infallible expedient for three kingdoms settlement: or, Better men make better times. Delivered in a sermon preached in the renowned and famous city of Gloucester, the Lord's day before their election of burgesses for Parliament. By Samuel Keme S.S.T.B. rector of Allbery, near Oxon.</title>
+            <author>Kem, Samuel, 1604-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87668</idno>
+            <idno type="STC">Wing K251</idno>
+            <idno type="STC">Thomason E1021_9</idno>
+            <idno type="STC">ESTC R208389</idno>
+            <idno type="EEBO-CITATION">99867344</idno>
+            <idno type="PROQUEST">99867344</idno>
+            <idno type="VID">119651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119651)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1021[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Solomons's infallible expedient for three kingdoms settlement: or, Better men make better times. Delivered in a sermon preached in the renowned and famous city of Gloucester, the Lord's day before their election of burgesses for Parliament. By Samuel Keme S.S.T.B. rector of Allbery, near Oxon.</title>
+                  <author>Kem, Samuel, 1604-1670.</author>
+               </titleStmt>
+               <extent>[6], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.S. for S. Sawbridge, and are to be sold at the signe of the Bible on Lud-Gate Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119651:1" rendition="simple:additions"/>
+            <p>King SOLOMON's Infallible EXPEDIENT FOR Three Kingdoms SETTLEMENT: OR, Better Men <hi>make</hi> Better Times.</p>
+            <p>Delivered In A SERMON Preached in the Renowned and Famous City of <hi>Glouceſter,</hi> the Lord's Day before their Electi<g ref="char:EOLhyphen"/>on of Burgeſſes for <hi>PARLIAMENT.</hi>
+            </p>
+            <p>By <hi>Samuel Keme S. S. T. B.</hi> Rector of <hi>Allbery,</hi> near <hi>Oxon.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>
+                     <bibl>
+                        <hi>Pſal. 112.4.</hi>
+                     </bibl> Unto the Righteous ariſeth Light in Darkneſſe.</l>
+                  <l>And the Righteous ſhall be had in everlaſting remembrance.</l>
+                  <l>His horne ſhall be exalted with Glory: The Wicked ſhall ſee it and be Angry.</l>
+               </lg>
+            </q>
+            <q>
+               <lg>
+                  <l>I will cloath her Prieſts with Salvation, and her Saints ſhall ſhout for joy.</l>
+                  <l>There will I make the Horne of <hi>David</hi> to bud; for I have Ordained a Light for mine Anointed.</l>
+                  <l>His Enemies will I cloath with ſhame, but on Him his Crown ſhall flouriſh, <bibl>
+                        <hi>Pſal. 132.16, 17, 18.</hi>
+                     </bibl>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. S.</hi> for <hi>G. Sawbridge,</hi> and are to be ſold at the Signe of the Bible on <hi>Lud-Gate Hill,</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119651:2"/>
+            <pb facs="tcp:119651:2"/>
+            <head>To the Honourable Tobie Jordan, Colonel, AND Now Mayor of the Ancient City OF GLOUCESTER. TO The Honourable the Burgeſſes Elected; Al<g ref="char:EOLhyphen"/>dermen, and Common-Council of the ſaid CITY.</head>
+            <opener>
+               <salute>Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have ever eſteemed Honeſt Authori<g ref="char:EOLhyphen"/>ty the moſt noble, potent, and approved Patron, to pitch on; The three King<g ref="char:EOLhyphen"/>dom's Glory, and every particular Per<g ref="char:EOLhyphen"/>ſon's beſt Security.</p>
+            <pb facs="tcp:119651:3"/>
+            <p>Now, That I might match my Principle with my Practiſe; The Compulſion of your many Civili<g ref="char:EOLhyphen"/>ties, &amp; the prevailing Voice of moſt of your Impor<g ref="char:EOLhyphen"/>tunities, hath not onely conquered me to a conceſſion to print theſe Muſhroom-meditations; but made me, being conſcious of the worthleſsneſſe of any thing that can be called Mine, (as liable to cenſure,) to fly to you for Protection; it being a Sermon formed at as great a diſtance from my Line and Level, and ordinary Inſtruments I make uſe of, as I am from my own Habitation, &amp; therefore not framed to that degree of Perfection I could wiſh for your ſakes, or any who may peruſe it: Which I pray may be charitable in their Judgment. For the heavieſt Cen<g ref="char:EOLhyphen"/>ſures come from men that ſpeak their Intereſt, and without Judgment: And to them but a word. Why ſhould you be violent for that, which, but by Violence and Oppreſſion, you cannot hold, and whilſt enjoyed is apt to torment your Souls with jealouſies and fears, and hangs on the twine-thred of the wandring Judgments of the hurrying Vul<g ref="char:EOLhyphen"/>gar, more multivarious than Nature's dalliances, which are every minute fluctuous and returning in their new Varieties? And why ſhould they not ra<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:119651:3"/> acquieſce in the Reaſon and Determination of Righteous men in Authority, whoſe Guide is God's Will revealed in his Word? Take heed whilſt you follow the guidance of your own Intereſt, though you ſhould enjoy <hi>Mydas</hi>'s ſpecious Wiſh, yet, it pay you not with ruine at the laſt. Truly God will work a<g ref="char:EOLhyphen"/>lone, &amp; Man muſt not be of his Counſel: If we can be but patient, God will be profitable; but for Time and Means we muſt leave to him, not interpoſe our ſelves. Be tutored by the unexpected Actings of the Times, not to preſume on any Intereſts, nor de<g ref="char:EOLhyphen"/>ſpaire of God, for he can help thee or croſs thee:
+<q>
+                  <l>Nemo confidat nimium Secundis:</l>
+                  <l>Nemo deſperet meliora lapſus.</l>
+               </q> Policy and Vowes have deceived us; let Righte<g ref="char:EOLhyphen"/>ouſneſs and Religion undeceive us, and let us take out this Leſſon, that, <hi>Thoſe Kingdoms flouriſh moſt, not where Vice-Royes govern, but the a Lawful Righteous King is perſonally pre<g ref="char:EOLhyphen"/>ſent;</hi> And, till you arrive here, you will be but vapours tranſported by unconſtant blaſts. And if this word of ſincere and loving Counſel ſhall raiſe
+<pb facs="tcp:119651:4"/> any ſtorm upon me, it ſhall but cauſe me to put the Helma Lee, and pray for them: And pray, for next under God, protection from you: who are not onely Martially impowred, but Civilly inveſted, with the Sword of Juſtice, and divinely furniſhed with the whole Armour of God, both to defend his friends; and offend his, your, and his Church's Enemies. And ever know, that ſanctified Wiſdom, and true Grace, is a Sanctuary ſo ſafe and ſacred, that even Princes dare not touch the man that is thus protec<g ref="char:EOLhyphen"/>ted. Yours, <hi>Honourable,</hi> hath been, in varieties of difficulties, proved and approved; And, with<g ref="char:EOLhyphen"/>out the leſt thought of Flattery I hint it, You ſeem to me to be formed and educated of God, in the way and love of Righteouſneſs, Truth, and Peace, attended on by Moderation, and yet a Chriſtian Courage and Counſel, to act your parts in ſuch a ſeaſon as this is: I muſt till death crave leave to honour you, and di<g ref="char:EOLhyphen"/>vulge to the World your Courage, and yet Chriſtian-like Moderation, in the uſe of your Power very lately: Violent, raſh, bloody Deſigns and Minds will never bleſs the owners with a ſetled Peace. Ty<g ref="char:EOLhyphen"/>ranny borders near an inevitable ruine: Modera<g ref="char:EOLhyphen"/>tion is a Spoke in the Wheel of Envy, nor is it ſafe
+<pb facs="tcp:119651:4"/> to Tenter Authority, for that diſplayes men: And what bloody miſchief was prevented, and what high-formed ſtormy Reſolutions calmed, and what Peace was in a ſhort ſpace, to admiration, ſetled, will never be forgot (to your perpetuall honour) whilſt <hi>Glouceſter</hi> is a City, Enemies being Jud<g ref="char:EOLhyphen"/>ges. By which means, though many of you being active in Counſel, enjoyed not a Liberty to hear a part of this Sermon, yet (I bleſs God) I enjoyed a peaceable opportunity to preach ſome of theſe Noti<g ref="char:EOLhyphen"/>ons in the Publick Aſſembly, the latter part of the Day. Thus have your Actings added one Argu<g ref="char:EOLhyphen"/>ment more to what I in Publick delivered, <hi>That when Righteous men are in Authority, the People rejoyce;</hi> Diligence and Moderation are the beſt ſteps whereby to climb to any Excellency: Go on and proſper; They that by righteous Actings acquire Honour, will hold it longer than they that have acquired it by Power or unjuſt <g ref="char:V">Ʋ</g>ſurpation. This will make you ſucceedingly glorious, that you ſhall need the Applauſe of none to add to your felici<g ref="char:EOLhyphen"/>ty. This, this Righteouſneſs will, in the Exerciſe of your Authority, Martial &amp; Civil, attract the hearts of all that hear of you, to you, for Love, Ser<g ref="char:EOLhyphen"/>vice,
+<pb facs="tcp:119651:5"/> Admiration. I ſhall dreſs up no more words in theſe Paper robes, leaſt I ſhould ſeem to ſtand in need of your Pardon, as well as Protection, for my Impertinencies. I, knowing reall Deſert deſires more to deſerue than to hear of it, ſhall, with Pray<g ref="char:EOLhyphen"/>er to the Lord to make You and Magiſtracy at unity amongſt your ſelves, zealous for God's Glory, and his Church's repairing and reforming, and the Kingdoms Settlement upon the Foundations of Righteouſneſs, Peace, and Truth, preſume ever to ſubſcribe my ſelf,</p>
+            <closer>
+               <signed>
+                  <hi>Yours and the City's moſt affec<g ref="char:EOLhyphen"/>tionate Servant, in the Labour of Prayer for all Bleſſings.</hi> SAM<g ref="char:V">Ʋ</g>EL KEME.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:119651:5"/>
+            <head>King SOLOMON'S Infallible Expedient for Three Kingdoms SETTLEMENT: OR, Better <hi>Men</hi> make better <hi>Times.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. 29.2.</hi>
+                  </bibl>
+                  <p>When the Righteous are in Authority, the People Rejoyce: But when the Wicked bear Rule, the People Sigh.</p>
+               </q>
+            </epigraph>
+            <p>NAtional, and not Notional Righteouſneſs, is, and hath ever bin, eſteemed the ſureſt Foundation for Nationall and Perſonall peace and happineſs. The laſtingeſt Settle<g ref="char:EOLhyphen"/>ment is formed from this Eſtabliſhment: Shews of it, will and hath produced no other than Mock-ſhowes and Kick-ſhowes
+<pb n="2" facs="tcp:119651:6"/> of Government. No, no! Diſſembled Piety is double Iniquity; and provokes God to give Men over to affect mutability &amp; Novelty; as <hi>Ariſtocracy, Democracy, Anarchy, Oligarchy, Fift-Monarchy;</hi> The at<g ref="char:EOLhyphen"/>tempts of all which muſt be managed by Policy, Power, Violence, Blood, and Tyranny; <hi>Experientia docet.</hi> Pretences of Religion and Liberty hath in all Ages lead the Van-guard, and bin the pretence for moſt the unbounded Licentiouſneſſe; As in that nefarious and bloody Conſpiracy and Murther of <hi>Julius Caeſar.</hi> When proud <hi>Sheba</hi> would invite <hi>Iſrael</hi> from a juſt and lawfull Subjection to the bondage of an Uſurper, He proclaimes a Toleration and Liberty,; And then the People as Bees, when up in a ſwarm, and hearing not the Voyce of the Maſter-Bee, the Monarch, are apt to light on any Bough, yea Thornes or Bryars. So Pride and Intereſt carry Men to cloze with any Faction. <hi>Pſal.</hi> 2.3. The proud Rulers projecting againſt Chriſt's Monarchy, declare for Liberty, Let us break their bonds, ſay they.</p>
+            <p>But your experience tells, you, The deadlieſt Storms attend the ſmootheſt Calms: Fair Promiſes are ſtrange ſnares to intangle the ignorant and ſimple-hearted. The cheapeſt things Men can part with, and yet the ſtrongeſt Inchantments: It was the Devils promiſe to Jeſus Chriſt, to give him Kingdoms. It is the Jeſuit's firſt leſſon; <hi>Machiavell's</hi> old Rule; And ſome of late Authorities practiſe: <hi>John Huſs</hi> had a fair promiſe for a ſafe conduct to the Council of <hi>Conſtance,</hi> yet they cut him off as to Life with a diſtinction, To come, but not return: <hi>Abſolon</hi> ſtood at the Court Gates, and having taken the People by the Ears with his Gallantry, he leads them by the Noſe into ſlavery, 2 <hi>Sam.</hi> 15.4. His ear is open to all Plants, Petitions of all Sorts; no Cauſe he flatters, no Error he to<g ref="char:EOLhyphen"/>lerates not. And then, O Valiant, Vertuous, Bounteous <hi>Abſolon</hi> was the common acclamation, <hi>Sed Promiſſa Tyrannorum finiuntur in ruinâ Credentium.</hi> They have Arguments in all Moods and Figures, but the laſt is in <hi>Bocardo.</hi> But, Chriſtians, I have to our wofull paſt-experiment brought you at this time for your Election Incourage<g ref="char:EOLhyphen"/>ment, <hi>Solomons</hi> Judgement as a direction Expedient. For better time, and a firm Settlement, reſtore and cry up better men: <hi>For when the Righteous are in Authority, the People Rejoyce: but when the Wicked <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear Rule, the People Sigh.</hi>
+            </p>
+            <pb n="3" facs="tcp:119651:6"/>
+            <p>The Text is Independent; and yet let me tell you, it is for Monar<g ref="char:EOLhyphen"/>chy, the very beſt Government, for it was pen'd by a Monarch, King <hi>Solomon;</hi> Not onely in Defence of Monarchy, as to his own Intereſt and Glory, but to the People's Security, Peace, and Indemnity; as he Argumentatively expounds my Text, <hi>ver.</hi> 4. A King by Righ<g ref="char:EOLhyphen"/>teouſneſſe maintaineth or preſerveth his Country; but a man recei<g ref="char:EOLhyphen"/>ving gifts, deſtroyeth it; A man that is neceſſitated to inforce conſtant Taxes, <hi>&amp;c.</hi> In the words in generall you have;
+<list>
+                  <item>1. Monarchy and Magiſtracy aſſerted.</item>
+                  <item>2. Happineſſe aſſured.</item>
+               </list>
+            </p>
+            <p>Firſt, <hi>When the Righteous are in Authority, the People Rejoyce.</hi>
+            </p>
+            <p>Secondly, The contrary experimented, <hi>When the Wicked bear Rule, the People Sigh.</hi> In the words you have theſe parts.</p>
+            <p>Firſt, The Time or Seaſon, in which a Kingdom or People may expect and be ſure of Happineſſe: <hi>When the Righteous are in Au<g ref="char:EOLhyphen"/>thority.</hi>
+            </p>
+            <p>Secondly, A juſt account of the length of Time, of a Kingdom's miſery and calamity. <hi>So long as the wicked beareth Rule.</hi>
+            </p>
+            <p>And now I wonder not, that King <hi>David,</hi> experienced in the Har<g ref="char:EOLhyphen"/>raſſing and Oppreſſing of his People under <hi>Abſolons</hi> Rebellion and Uſurpation, he and his Companions being routed and ſlain, makes ſuch haſte to be ſettled on his Throne for his People good, 2 Sam. 19.20. <hi>Abſolon whom we appointed over us is dead,</hi> Ver. 11. <hi>Then King</hi> David <hi>ſent to</hi> Zadock <hi>and</hi> Abiathar <hi>the Prieſts; ſaying, Speak to the Elders of</hi> Juda, <hi>and ſay, Why are ye behind to bring the King again to his Houſe?</hi> See <hi>v.</hi> 14. He gives <hi>Amaſa</hi> incouraging-hints as to be Ge<g ref="char:EOLhyphen"/>nerall in <hi>Joab</hi>'s ſtead, <hi>Ver.</hi> 13, 14. <hi>He bowed the hearts of all the men of</hi> Juda, <hi>as of one man: Therefore they ſent to the King, ſaying; Return thou with all thy Servants, v.</hi> 15. <hi>So the King returned, and came to</hi> Jor<g ref="char:EOLhyphen"/>dan. <hi>And</hi> Juda <hi>came to</hi> Gilgal <hi>to meet the King, and to conduct him over the Waters of</hi> Jordan: <hi>Yea,</hi> Shimei <hi>faces about, and goes alſo:</hi> And when holy <hi>David</hi> is in Authority, the Kingdom rejoyceth exceeding<g ref="char:EOLhyphen"/>ly, 2 <hi>Sam.</hi> 22. But when <hi>Abſolon</hi> and <hi>Sheba</hi> Ruled, their very hearts were grieved.</p>
+            <p>I ſhall clear theſe particulars, or ſo much as I ſhall ſpeak to.</p>
+            <list>
+               <pb n="4" facs="tcp:119651:7"/>
+               <item>1. What is meant, by Righteous.</item>
+               <item>2. What, By being in Authority.</item>
+               <item>3. What, by the Peoples Rejoycing, and what kinds of joy it is that they expreſs.</item>
+               <item>4. What, is underſtood, by Wicked; and what by their bea<g ref="char:EOLhyphen"/>ring Rule.</item>
+               <item>5. What by Sighing.</item>
+            </list>
+            <p>Firſt, What by Righteous.</p>
+            <p>And really, Chriſtians, there hath bin, and is ſo much ſpirituall Ho<g ref="char:EOLhyphen"/>cus-pokery and Hypocriſy in the World, that the Devil in <hi>Samuel's</hi> mantle hath paſt for the Prophet. But becauſe Chriſt hath ſaid, The Tree is known by the Fruit, Affection concluded by Actions: I will tell you what the Scripture ſaith, Is not to do righteouſly, and whom God looks upon as unrighteous, that you may in your choyce de<g ref="char:EOLhyphen"/>cline them: And whom he looks upon as righteous, that you may Elect and Accept them as your Repreſentatives; I ſhall give you examples in Men and Actions. Theſe are righteous.</p>
+            <p n="1">1. Negatively, not ſuch as walk prophanely, or countenance or oppoſe not the ſpirit of prophaneneſs in their Relations or Inferiors. <hi>Noah</hi> in his oppoſition to this practiſe, is called a righteous Man in his Age, for he grieved for the unrighteous deed, <hi>Gen.</hi> 6.9, 10. <hi>Gen.</hi> 24. If there be fifty righteous, <hi>&amp;c. v.</hi> 25. So <hi>Lot</hi> is called a righ<g ref="char:EOLhyphen"/>teous man in oppoſition to his times practice,</p>
+            <p>Secondly, Such as walk perfidiouſly, that break Covenants with God and Man: That keep not their promiſes, <hi>Pſal.</hi> 57. In oppoſi<g ref="char:EOLhyphen"/>tion to this, <hi>Jonathan</hi> is ſtyled righteous, acting ſo to <hi>David,</hi> having made a Covenant with him, 1 <hi>Sam.</hi> 18. although his treachery might have got him a Crown in all probability.</p>
+            <p>Thirdly, Such as preferr Policy to Piety, and manage it with the moſt notorious Acts of cruelty. In oppoſition to this practiſe, <hi>David</hi> is called righteous by hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very Enemy <hi>Saul,</hi> 1 <hi>Sam.</hi> 24. compared with 6.7. Verſes, 1 <hi>Sam.</hi> 26. <hi>And it came to paſſe when</hi> Abi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thar <hi>the ſon of</hi> Ahimelech, <hi>fled to</hi> David <hi>to</hi> Keilah, <hi>that he came down with an Epl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od in his hand. And it was told</hi> Saul <hi>that</hi> David <hi>was come to</hi> Keilah, <hi>and</hi> Saul <hi>ſaid, God hath delivered him into mine hand; for he is ſhut in, by entring into a Town that hath Gates and Bars.</hi> Contrary to this, is
+<pb n="5" facs="tcp:119651:7"/> the unrighteous Actings of <hi>Joab</hi> and <hi>Abner.</hi> And our Engliſh Hiſto<g ref="char:EOLhyphen"/>rian <hi>Sanderſon</hi> tells you of one lately that pretended Piety, that by Policy he might act his Cruelty; Such was <hi>Herod</hi>'s Act, <hi>Math.</hi> 2. and <hi>Judas</hi> Kiſs to his Maſter.</p>
+            <p n="4">4. To walk cruelly and act Tyrannically, meerly to fortify Inte<g ref="char:EOLhyphen"/>reſt; yea, againſt convictions of Conſcience: Upon this account is it Chriſt calls <hi>Herod</hi> Wicked, who valued not to ſerve up <hi>John Baptiſt</hi>'s Head in blood, whom he delighted formerly to hear, for oppoſing him in his Intereſted <hi>Herodias;</hi> As cruel <hi>Bonner</hi> in his time, <hi>&amp;c.</hi> And as our Engliſh Hiſtorian mentions one more cruel to <hi>Mr. Love, Gib<g ref="char:EOLhyphen"/>bons,</hi> &amp;c.</p>
+            <p n="5">5. Such as have broke all Bonds and bounds, Laws of God and Man, to make Laws to maintain their own Intereſt, though to the ru<g ref="char:EOLhyphen"/>ining of three Kingdoms, as <hi>Rehoboam, Abſolom,</hi> and his Renega<g ref="char:EOLhyphen"/>does and young men in Arms, 1 <hi>King.</hi> 12.11, 14, 15.</p>
+            <p n="6">6. Such as Profeſs to be Counſellors for National ſafety, and pull down its Hedge of Magiſtracy and Miniſtry, <hi>Eccleſ.</hi> 10.8. <hi>He that breaketh a Hedge, a Serpent ſhall bite him,</hi> Verſe 9. Apply.</p>
+            <p n="7">7. As the fag end of this Character, take a Company of them to<g ref="char:EOLhyphen"/>gether, diſcovered by the Apoſtle <hi>Paul,</hi> 2 <hi>Tim.</hi> 3.2, 3, 4, 5, 6, <hi>&amp;c. Lovers of themſelves, Covetous, Boaſters, Proud, curſed Speakers, Diſ<g ref="char:EOLhyphen"/>obedient to Parents, Unthankfull, Unholy, without naturall Affection, Co<g ref="char:EOLhyphen"/>venant-breakers, falſe Accuſers, Intemperate, Fierce, No lovers at all of them which are good; Traitours, heady, high-minded, Lovers of plea<g ref="char:EOLhyphen"/>ſures more than lovers of God, having a ſhew of Godlineſs, creeping into houſes, leading captive ſilly Women.</hi>
+            </p>
+            <p>A Righteous man, affirmatively, is ſuch a one as is poſitively holy, in his Perſon and his practiſes, his Opinion, his Principles, his Aims as well as Actions: <hi>Jehu</hi> did drive furioſly, acted highly, but all was to get a Kingdom. He is ſuch a one as walks by Goſpel Rules, not Lights within, or providences and ſucceſſes; Impulſe of Spirit.</p>
+            <p>Secondly, What, By being in Authority: And it is explained by the Apoſtle, 1 <hi>Tim.</hi> 2.2. and that Perſonally or Relatively: I ex<g ref="char:EOLhyphen"/>hort therefore, that firſt of all, Prayers and Interceſſions be made for all men; for Kings, and all that are in Authority, that is, all that exerciſe a lawful Power over us.</p>
+            <pb n="6" facs="tcp:119651:8"/>
+            <p>Thirdly, What kind of Joy or rejoycing the People act, as the Product of ſuch Government and Rulers.</p>
+            <p>
+               <hi>Solution,</hi> 1. Not carnal, ſinful, prophane Rejoycing in drinking Healths, Oaths, or any deboiſture, drinking to exceſs; ſinning becauſe God's Mercy abounds, and have hopes of better times.</p>
+            <p n="2">2. Not rejoycing as to Self-Intereſt, Preferment, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. Not rejoycing in bodily Priviledges, but the Soul's Advanta<g ref="char:EOLhyphen"/>ges; this is explained by the Apoſtle alſo, 2 <hi>Cor.</hi> 10.17. In the Lord, in Soul's Priviledges, Goſpel-freedom in power and purity, Magiſtracy and Miniſtry's reſtauration, Anti-chriſt's diſappointments; Rejoyce ſpiritually, yea, in the Creatures and one anothers ſocieties, moderately; yea, and make the poor rejoice with you, charitably.</p>
+            <p>
+               <hi>Obſervation.</hi> A Righteous Magiſtracy forms a People's hearts in all their Converſations to rejoycing and alacrity. A righteous King. Lords and Parliament, is the Kingdom's All-agreement. Good men create good times; Good Superiours, good Inferiours; <hi>Regis ad Exemplum.</hi>
+            </p>
+            <p>I ſhall give you Scriptures and Examples, and divine Arguments, to prove it, and ſo apply it. And becauſe the word <hi>King</hi> is out, I ſhall rather confirm it than recal it; and aſſert Monarchy, not onely as moſt agreeable to the Nation's well-being, but God's Order. To omit Himſelf being Preſident, and Oeconomical Government, natu<g ref="char:EOLhyphen"/>ral Inſtinct: I pray you read <hi>Exod.</hi> 18.13. Moſes <hi>ſate and judged the People;</hi> 21. <hi>Moreover, provide amongſt all the People Men of Cou<g ref="char:EOLhyphen"/>rage, fearing God, men dealing truly, hating Covetouſneſs, and appoint them to be Rulers, Nobles, but every great matter let them bring to thee:</hi> 23. <hi>So ſhall the People go quietly to their place:</hi> 25. ver. <hi>And</hi> Moſes <hi>choſe able men out of all</hi> Iſrael, <hi>and made them Heads over the People.</hi> Exod. 19.6. <hi>Ye ſhall be to me a Kingdom.</hi> Deut. 1.13, 14, 15, &amp;c. read 17. <hi>Bring it to me and I will hear it.</hi> And pray ſee <hi>Rom.</hi> 13. Where commanding to obey Magiſtrates for Conſcience, whoever re<g ref="char:EOLhyphen"/>ſiſteth the Power: 4. <hi>ver. For he is the Miniſter of God.</hi> 6. ver. <hi>For this cauſe ye pay Tribute,</hi> that is onely due to Kings; Give to <hi>Caeſar</hi> the things that are <hi>Caeſar</hi>'s: Deut. 17.14, 15. God's Inſtitution, <hi>Then thou ſhalt make him King, whom the Lord ſhall chooſe.</hi> Joſh. 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. 1 Sam. 16.1. <hi>I have provided me a King.</hi> 2 Sam. 14.17.
+<pb n="7" facs="tcp:119651:8"/> Prov. 11.10. <hi>In the Proſperity of the Righteous, the City Rejoyceth,</hi> Prov. 16.15. <hi>In the Light of the Kings Countenance, is Life, and his favour as a Cloud of the latter Rain,</hi> Prov. 20.8. <hi>A King that ſitteth on the Throne of Righteouſneſs, chaſeth away all evils with his Eyes,</hi> This contains Divine reaſon alſo. Prov. 25.3. <hi>The Heaven for heighth, and the Earth for depth, and the heart of Kings is unſearchable:</hi> Prov. 29.14. <hi>The King that faithfully judgeth the poor, His Throne ſhall be eſtabliſhed for ever.</hi>
+            </p>
+            <p>
+               <hi>Examples.</hi> How chearfull, and with what joy did the People manage their Affairs in the Daies of righteous Kings and Magiſtrates. As in godly <hi>David</hi>'s, <hi>Solomon</hi>'s, <hi>Joſia</hi>'s, <hi>Ezekiah</hi>'s, &amp;c. Again, under wicked Kings as <hi>Abſolon, Jeroboam,</hi> &amp;c. <hi>Richard</hi> III. <hi>Henry</hi> VIII. <hi>Queen Mary,</hi> &amp;c. what aſtrange alteration in the faces of People? But in <hi>Edward</hi> the Sixth Days, after in Queen <hi>Elizabeth</hi>'s, ſo at preſent, what Rejoycing? what a Life in hope of Trade? what Demonſtrations of joy in all places, amongſt all Degrees, Sexes, Ages, even whilſt but in expectation of Reſtoration?</p>
+            <p n="1">1. <hi>Arg.</hi> Becauſe Righteous men conſtitute and enact none but righte<g ref="char:EOLhyphen"/>ous laws; righteous Superiors cannot, dare not, do any other then righ<g ref="char:EOLhyphen"/>teous things for Inferiors. Now this creates joy in the heart: Prov. 12.10. <hi>A righteous man regards the life of his Beaſt,</hi> Prov. 16.17. <hi>The path of the Righteous is to depart from evil,</hi> Prov. 20.26. <hi>A righteous King ſcattereth the wicked, and cauſeth the wheel to turn over them.</hi>
+            </p>
+            <p n="2">2. <hi>Arg.</hi> Becauſe righteous Superiors bring multiplyed bleſſings on their Inferiors, and keep evils from them; and ſeek God much for them, Prov. 11.11. <hi>By the bleſſing of the Righteous, the City is exal<g ref="char:EOLhyphen"/>ted,</hi> Prov. 10.21. <hi>The lips of the Righteous feed many.</hi> Righteouſ<g ref="char:EOLhyphen"/>neſs delivereth from Death, <hi>Prov.</hi> 10.11. <hi>Prov.</hi> 12.28. <hi>Life is in the way of righteouſneſſe, and in that path-way there is no Death.</hi>
+            </p>
+            <p n="3">3. <hi>Arg.</hi> Becauſe all ſuch things as uſually create joy in us, wait on their endeavours, by God's appointment; and the reliſhes of them ex<g ref="char:EOLhyphen"/>pected by the People are performed to the People: As Righte<g ref="char:EOLhyphen"/>ouſneſs, Peace, ſecurity, dwelling under their Vines and Figg-Trees, injoying the Fruits of their own Labours. <hi>They ſhall dwell ſafely, and be quiet from all evil,</hi> Prov. 1.33. Prov. 2.7. <hi>He Preſerveth the Eſtates of the Righteous, He is a Shield to them that walk uprightly,</hi> Prov. 2.21. <hi>The juſt ſhall dwell in the Land.</hi> They have the pro<g ref="char:EOLhyphen"/>miſe
+<pb n="8" facs="tcp:119651:9"/> of all Temporals and Spirituals, Health to their Navel, Marrow to their Bones, Prov. 3.24. <hi>When thou ſleepeſt, thy ſleep ſhall be ſweet:</hi> 33. Ver. <hi>He bleſſeth the habitation of the Righteous,</hi> Prov. 28.10. <hi>Whoſo cauſeth the Righteous to go aſtray in an evil way, he ſhall fall him<g ref="char:EOLhyphen"/>ſelf into his own pit: but the upright ſhall have good things in poſſeſſion:</hi> Prov. 6.11,—16. <hi>A naughty perſon, a wicked man walketh with a froward mouth. He winketh with his Eyes, he ſpeaketh with his Feet, he teacheth with his Fingers. Frowardneſſe is in his heart, he deviſeth miſ<g ref="char:EOLhyphen"/>chief continually, he ſoweth diſcord. Therefore ſhall his calamity come ſuddenly, ſuddenly ſhall he be broken without remedy.</hi> Bleſſings are on the head of Righteous, Prov. 14.34. <hi>Righteouſneſſe exalteth a Nati<g ref="char:EOLhyphen"/>on:</hi> Prov: 16.6. <hi>By Righteous mens Actings, Iniquities ſhall be forgi<g ref="char:EOLhyphen"/>ven:</hi> Prov. 21.12. <hi>The Righteous teacheth the Houſe of the Wicked.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Of Information in theſe particulars following.</p>
+            <p n="1">1. That Nationall felicities and happineſſe conſiſts in Righteouſ<g ref="char:EOLhyphen"/>neſſe and Holineſſe; not onely in greatneſſe, but goodneſſe.</p>
+            <p n="2">2. The true cauſe of the ſad aſpect of the three Kingdomes for ſome years paſt, is, a want of Righteous men in Authority, and unrigh<g ref="char:EOLhyphen"/>teous Actings: I need not be your Remembrancer of them. It would take up all my time, and revive your trouble to rake in the puddle of noyſome ſtinking mire and dirt.</p>
+            <p n="3">3. It informs us of a Nationall Remedy for the malady, <hi>viz.</hi> to endeavour to have Righteous men in Authority.</p>
+            <p n="4">4. Whom we are to look upon as Friends of the Nation, and Keepers of its Liberty. Not a Committee of Safety, not I know not who; but Righteous Rulers, and Righteous Men in Authority: For they form joy of Heart, and introduce every Mercy.</p>
+            <p>
+               <hi>Uſe of Exhortation.</hi> I am come from the Lord to beg this one thing from you in this your Opportunity: To Elect and endeavour to fix Righteous men in Authority, as your Repreſentatives. And ob<g ref="char:EOLhyphen"/>ſerve the ſevere directions that God hath ſent me withall to you this Day.</p>
+            <p n="1">1. Men that preferr Piety before Policy, and not Men that pre<g ref="char:EOLhyphen"/>ferr, Private Intereſt before National Good; that preferr God and his Churches Settlement, before their own Advancement. <hi>That will build his Houſe before their own,</hi> 1 King. 5.5. <hi>The People returning from
+<pb n="9" facs="tcp:119651:9"/> Captivity did ſo.</hi> Ezra 4. And although it was obſtructed by force ſome years, yet in the next opportunity they fell to it with Swords in one hand, and Trowels in the other, manger all oppoſition, Ver. 23. Oh! Chuſe Men that keep Faith and a good Conſcience.</p>
+            <p n="2">2. Men of known Integrity, and Fidelity to God and Man, and not of diſcovered Apoſtacy and Hypocriſy: Men that will loſe their Lives and Preferment rather then not keep their Covenant, and ſeek a Settlement. Armor of Proof, formes ſecurity; men that can en<g ref="char:EOLhyphen"/>dure Baniſhment, Impriſonment, <hi>&amp;c.</hi> A Weather-Cock in Church or State is fitter to hang in the Wind, than to be in the Houſe.</p>
+            <p n="3">3. Men that preferr Mercy before Cruelty, <hi>Prov.</hi> 14.21. <hi>The Wicked deſpiſeth his Neighbour, but he that hath mercy on the Poor is Bleſſed, Math.</hi> 9.13. 1 <hi>Sam.</hi> 24.7. <hi>And he ſaid unto them, The Lord keep me from doing the thing to my Maſter the Lord's Anointed, to lay my hand upon Him, for He is the Lord's Anointed.</hi>
+            </p>
+            <p n="4">4. Men of Courage and Activity, that preferr Publick Good be<g ref="char:EOLhyphen"/>fore Perſonal Safety; ſuch as <hi>Heſter,</hi> If I periſh, I periſh. Not ſuch who in the Duke of <hi>Alva</hi>'s time of Tyranny, are pictured in <hi>Holland</hi> with their Fingers on their Lips: but ſuch as will venter Life and Li<g ref="char:EOLhyphen"/>berty, to Speak and Act, to redeem the People out of Slavery, that dare ſay, <hi>Mori poſſum, tacere non poſſum.</hi>
+            </p>
+            <p n="5">5. Men of Gravity and Majeſty, yet preferring Humility to Self and Vain-Glory; and the juſt Cauſe of Poverty before the unjuſt Cauſe of great Men in Authority: <hi>Mordecai</hi> before <hi>Haman.</hi>
+            </p>
+            <p n="6">6. Men that preferr Verity before Hereſy, Chriſt before Anti<g ref="char:EOLhyphen"/>chriſt; Goſpel-Reformation before former, Intereſt-ſake, or abomi<g ref="char:EOLhyphen"/>nable Toleration.</p>
+            <p n="7">7. That preferr Unity and Order in all the Churches of Chriſt and his Members, before Seperation or Diviſion.</p>
+            <p n="8">8. Men of Grandure, and experienced in Authority; with whom is Wiſdom, Sobriety, Moderation; good Education and Ability: the Head, and not the Tayl of the People: The liſt or fag-end may patch, but never can make a beautiful Garment.</p>
+            <p>Laſtly, Chuſe Men of ſenſible and tender hearts, that Sympathize with the Nation, and your Selves; in and under all your Greivances and miſerie, that may be ſenſible to call home the Baniſhed; relieve
+<pb n="10" facs="tcp:119651:10"/> the Oppreſſed, Injured, the unjuſtly impriſoned, Sequeſtred: And now I ſhall give you ſome means by which you may gain ſuch righ<g ref="char:EOLhyphen"/>teous Men to be in Authority, and ſome motives, and a word to the Elected, and ſo I have done.</p>
+            <p n="1">1. <hi>Meanes.</hi> Be very frequent and fervent in prayer to the Lord, who gives righteous hearts to men, to give them ſo qualified to you, and that He would providentially ſhew who are ſo indeed. So the Diſciples prayed, <hi>Acts</hi> 1. and pray much for them; Shew us whom thou haſt choſen.</p>
+            <p n="2">2. <hi>Meanes.</hi> Be very Circumſpect as to ſecret guilt of groſs and habituall ſin; God doth often puniſh the ſins of a People, by giving them unrighteous Superiors in his wrath, <hi>Prov.</hi> 28.2. <hi>For the tranſgreſſi<g ref="char:EOLhyphen"/>ons of a Land, many are the Princes thereof: but, by a man of underſtanding and knowledge, the ſtate thereof ſhall be prolonged.</hi>
+            </p>
+            <p n="3">3. <hi>Meanes.</hi> Exactly to obſerve the Character and Rules I have ſet before you, whom to Chuſe.</p>
+            <p n="4">4. <hi>Mean.</hi> To ſet a high value on righteouſneſs, to bring it in faſhion, to cry it up, to exemplifie it, teach it to youth, <hi>&amp;c.</hi> by daily inſtruction &amp; Chatechiſing to diffuſe it; every one to each otherby examplary life.</p>
+            <p>Laſt <hi>Means.</hi> To repent in this joynt of Time, Nationally, Per<g ref="char:EOLhyphen"/>ſonally; I ſhall ſay (as Mr. <hi>Bradford,</hi> in flames of fire, ſo I) to you and the Kindgom, in flames of affection, Repent, O <hi>England,</hi> Repent; Do not obſtruct God in his work of Mercy, by omitting this Duty: you can expect no good or righteous Actings for time to come, till you repent of all your unrighteouſneſs paſt. Repent of all pretended holi<g ref="char:EOLhyphen"/>neſs; of omitting to practiſe righteouſneſs. Repent of all ſin, yea, the very appearances of evil, but eſpecially Nationall ſins, for which you have never bin grieved, nor troubled, in the powerful Actings of it. For although you could not prevent it, you ought not to connive, nor com<g ref="char:EOLhyphen"/>ply with it, but complain to God of it: I ſhall tell you of ſome ſins, which, if you would be righteous, God expects you ſhould Repent of.</p>
+            <p n="1">1. National diſſatisfaction with our real Mercies that God afforded to us; I mean not, at the dreſſing of our quailes, after the Romiſh mode, but at quailes themſelves; our oppoſing <hi>Moſes</hi> and Idolizing Calves of our own making and approving. This ſin you have pencilled out, 1 <hi>Kings</hi> 12. 9, 16. Let all ſuch Enemies repent of their unrighteouſ<g ref="char:EOLhyphen"/>neſs,
+<pb n="11" facs="tcp:119651:10"/> that offer'd violence to the <hi>Parliament,</hi> that they might carry on more cleverly the King's death.</p>
+            <p n="2">2. Repent of your Solemn League and Covenant-Fraction as to God and Man, in all the branches of it, Numb. 30.3. <hi>If a man Vow a Vow unto the Lord, or ſwear an Oath to bind his ſoul with a bond; ſaying, This is the thing which the Lord hath commanded:</hi> Deut. 29.24, 25. <hi>Even all Nations ſhall ſay, Wherefore hath the Lord done thus unto this Land? what meaneth the heat of this great anger? Then men ſhall ſay, Becauſe they have forſaken the Covenant of the Lord God of their Fathers, which he made with them, when he brought them forth out of the Land of</hi> Egypt.</p>
+            <p n="3">3. Repent of countenancing all Errors and Factions againſt Scrip<g ref="char:EOLhyphen"/>ture-Truths, or beſides, or above them, or without them, <hi>Gal.</hi> 2, 4.5. The Apoſtle gave not way to this ſin for an hour.</p>
+            <p n="4">4. Repent all that have had a hand in Miniſtery-Deformation, Defamation, that, under pretence of probation, and trying them as to gifts and grace, and a Miniſtry-Reformation; had, if the Lord had not prevented it by a miracle of mercy, brought it nigh to the brink of deſolation; I being able to account with any (upon good proof, and men of known integrity) of two hundred Trades-men, Lawyers, Clerks, Chirurgions, and the like, try'd, approved of, admitted into Livings, and of good Value, beſides thoſe in the Army and Navy. Many more without Ordination, ſuch as have rendered us ridiculous to reformed Churches abroad: The faireſt and fatteſt was ever for the Lord.</p>
+            <p>Such, with <hi>Jeroboam,</hi> have made themſelvs guilty of that curſed ſin of making Prieſts of the loweſt of the People, which were not of the Sons of <hi>Levi,</hi> 1 <hi>King.</hi> 12.31. 1 <hi>Tim.</hi> 4 15. God required men ſhould give themſelvs wholly to the Miniſtry. In this City of <hi>Glouceſter</hi> I ſee a man, two, or three, cutting out ſhoos, and others cleering Guns, forming up Swords, <hi>&amp;c.</hi> on the week-dayes, that have Rectories with Augmentations, within 6 or 7 miles off this City. 1 <hi>Tim.</hi> 5.22. <hi>Lay hands ſuddenly on no man.</hi> 1 <hi>Tim.</hi> 3.6. <hi>Not a young Schollar;</hi> and then not on one that is no Schollar.</p>
+            <p n="5">5. Repent of Intereſt-extollation before Righteouſneſs and Truth and Peace, Settlement and Preſervation, and all Prophaneſs and Er<g ref="char:EOLhyphen"/>ror's
+<pb n="12" facs="tcp:119651:11"/> Extirpation; with prophane <hi>Eſau,</hi> preferring a glorious Meſſe of Pottage, to fill their greedy bellyes, before a Birth-right.</p>
+            <p n="6">6. Repent of all formalities, Hypocriſies, as to that ſacred and ſolemn excellent Ordinance, to divert Judgments and procure Mer<g ref="char:EOLhyphen"/>cies (when ſincerely and heartily performed,) I mean, dayes of Faſt<g ref="char:EOLhyphen"/>ing and Humiliation; when immediately the fruit hath been, Oppo<g ref="char:EOLhyphen"/>ſing Superiours in Authority: againſt Oaths and ſolemn Covenants, dethroning, beheading, Magiſtracy and Miniſtry. Oh! This is for a Lamentation, and let it be to us ſurviving a cauſe of cordial Repen<g ref="char:EOLhyphen"/>tance and Humiliation.</p>
+            <p>Laſtly, Let us all repent of all our Un-betterneſs under all God's Judgments that have been ſeveral years upon us; our Unteach<g ref="char:EOLhyphen"/>ableneſs under all the Lectures, which by his variety of eminent Pro<g ref="char:EOLhyphen"/>vidences and Diſpenſations, he hath read to us; and for all our Un<g ref="char:EOLhyphen"/>fruitfulneſs under Goſpel-Ordinances to this day, the very beſt of us; and that to prevent that ſad Doom, <hi>Matth.</hi> 21.43. <hi>The Kingdom ſhall be taken from you, and given to a People bringing forth the fruit of it.</hi> God hath other Nations under Promiſe will be glad of it; He is not beholding to <hi>England</hi> for Profeſſing his Goſpel, if we practiſe not, nor then neither; for it is our duty: And, do all we can, we are unprofitable Servants. Therefore, as a demonſtration of thy fruitfulneſs and bet<g ref="char:EOLhyphen"/>terneſs, Repent; and ſeeing you expect a compleating of Mercy to you, in this day of hope; Omit not your duty of real Repentance from ſin, all ſin, before the Lord; Ceaſe to do evil, learn to do well, put away the evil of our Doings, and by this means you will become Righteous men, fit for Government, and ſo ſhall the Nation become a Kingdom of Righteous men, wherein the Lord will delight to dwell.</p>
+            <p>
+               <hi>Motives.</hi> To be curious in your Choyce, as to righteous Men.</p>
+            <p n="1">1. Becauſe ſuch are the Favourit of the great God, the King of Kings, they have an Intereſt in Heaven, they can do much for you there, as to your Felicity here: Prov. 15.29. <hi>The Lord is far from the Wicked, but He heareth the prayer of the Righteous:</hi> Prov. 10.24. <hi>God grants the deſire of the Righteous.</hi>
+            </p>
+            <p n="2">2. They are intereſted in the Value of Princes, and excellent in the ſight of all good Men: They ſhall ſtand before Kings, Prov. 12.26. <hi>He is more excellent then his Neighbour.</hi>
+            </p>
+            <p n="3">
+               <pb n="13" facs="tcp:119651:11"/>3. That you may reap the Fruit and Benefit of their Actings, and reliſh it in Peace, Plenty, Holineſſe, and all Happineſs.</p>
+            <p>And now a word to you who may be elected. I come to you in the words of Jeſus Chriſt, <hi>Fear not them that kill the body;</hi> Truſt that God that hath kept you to this day. Be gallant ſtill, ſhew it by your Humility, and let God alone with the Proud; count it more honour to be ſifted like Wheat, than ſetled on the Lees, and at laſt found bottomed with much Dreggs. And as a poor Pledge of my ſincere Love, accept of this Motto to ſubſcribe your Blazons,</p>
+            <q>Creſcit in Adverſis Virtus.
+<p>and for your encouragement know more,</p>
+               <p>Saepe telo Jovis quercus aduſta viret.</p>
+               <p>and again, for your practiſe,</p>
+               <p>Tu ne cede malis, ſed contrà ardentior ito.</p>
+            </q>
+            <p>And, I beſeech you, have the Afflictions and unjuſt Sufferings of poor <hi>Joſeph</hi> in your minds, when you are advanced, <hi>Gen.</hi> 40.14, 23. <hi>Yet the Butler remembred not Joſeph, but forgat him.</hi> Oh, remember bought and ſold, wounded, divided, oppreſſed, and impoveriſhed <hi>England, Scotland,</hi> and <hi>Ireland;</hi> and ſay, as <hi>David</hi> ſpeaks of the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> in Captivity, <hi>Pſal.</hi> 137.6. <hi>If I do not remember thee, let my tongue cleave to the roof of my mouth; let my right hand forget its cun<g ref="char:EOLhyphen"/>ning; if I prefer not thee to my chief joy.</hi> Be not like the Prieſt to the man wounded, <hi>Luke</hi> 10.30. robb'd of his raiment, half dead; the Levite paſſed by when he ſaw it: but like the good Samaritan, <hi>ver.</hi> 33. <hi>he had compaſſion on him, went to him and bound up his wounds, powred in Oyl and Wine, put him on his own beaſt, brought him to an Inn, made proviſion for him,</hi> &amp;c. 35. <hi>defray'd his charges;</hi> Oh go and do like<g ref="char:EOLhyphen"/>wiſe: Me-thinks I ſeem to ſee the three Kingdoms, at this day, as this poor man, robb'd by theevs of the beautiful garment of Religi<g ref="char:EOLhyphen"/>on in purity, as to Doctrine and Diſcipline; all tattered and torn, ſtark naked in many places, as in <hi>Wales,</hi> robb'd of Miniſters and Main<g ref="char:EOLhyphen"/>tenance, and robb'd of intended Charity for their good, collected to buy Bibles, but cannot hear of any diſtributed, for there are none hard<g ref="char:EOLhyphen"/>ly to be found in <hi>Wales,</hi> unleſs they are in Mr. <hi>Craddock</hi>'s Libra<g ref="char:EOLhyphen"/>ry, and there by his propagating <hi>Chimiſtry</hi> converted into a great Trunk full of Coyn, with a Crucifix at top, as was lately diſcovered, &amp; by e<g ref="char:EOLhyphen"/>minent perſons atteſted. Wounded to aſtoniſhment, &amp; for her wounds am I wounded, <hi>&amp;c.</hi> Is there no Balm in <hi>Gilead,</hi> no Phyſitian there?
+<pb n="12" facs="tcp:119651:12"/> Yes, God hath formed us a <hi>Gideon,</hi> a <hi>Joſhua,</hi> Bleſſed be his Name: and will put it (as a return of many ſolemn daies of ſincere Faſting &amp; Prayer, in that famous City of <hi>London,</hi> by his faithful Miniſters and Servants there, and elſewhere in the Nation) into the hearts of all, to chooſe righteous Phyſitians, that may not skin over only, but perfectly heal our Wounds: wounded within, without; in repute abroad, in condition at home; half, yea almoſt, dead, after a cold winterly ſea<g ref="char:EOLhyphen"/>ſon of blaſting, biting trouble: Oh, be ye not like the Lady to her Almoners, who pittied them whilſt in the cold her ſelf, but in the houſe forgat who, with hungry bellies, and naked bodies, waited at the door: But do as good <hi>Nehemiah,</hi> in delivering the oppreſſed of his time, <hi>Nehem.</hi> 5. that you may ſay, as he in the 19th Verſe, <hi>Re<g ref="char:EOLhyphen"/>member, me O my God, in goodneſs, according to all I have done for this People.</hi> And as in the 13. Chap. <hi>Neh.</hi> 10.11. Verſes, <hi>When I perceived the Portions of the</hi> Levites <hi>had not bin given, and every one fled: then reproved I the Rulers, and ſaid, Why is the Houſe of God forſaken; and I in the next Aſſembly ſet them in their Places:</hi> And then may you ſay, as in Neh. 13.15. <hi>Remember me, O God, herein, and wipe not out my kindneſſe I have ſhewed to the Houſe of my God, and the Officers thereof.</hi> I conclude all with that Scripture, Iſa. 16.3. <hi>Ga<g ref="char:EOLhyphen"/>ther a Council, Execute Judgment, hide them that are chaſed out, bewray not him that is fled. Let my baniſhed dwell with thee, be thou the Covert from the face of the Deſtroyer; For the Extortioner ſhall end, the Deſtroyer ſhall be conſumed, the Oppreſſor ſhall ceaſe out of the Land. And in mercy ſhall that Throne be prepared, and he ſhall ſit on it in ſtedfaſtneſſe and judgment, ſeeking Judgment and haſtening Juſtice.</hi> The yoke of the burthen, the ſtaff of the ſhoulder, the Rod of the Oppreſſor haſt thou broken, as in the day of <hi>Midian.</hi>
+            </p>
+            <p>And the mighty God, the Prince of Peace, whoſe name is Coun<g ref="char:EOLhyphen"/>ſellor, guide, and furniſh you all, with Wiſdom and Counſel, that all the Foundations that are out of courſe may be once again Centred; the Fences of God's Vineyard repaired; the Walls of our <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> builded; all Phanaticks whatſoever diſcouraged, and the Goſ<g ref="char:EOLhyphen"/>pel in Power and Purity countenanced; a boundleſs Toleration an<g ref="char:EOLhyphen"/>nihilated, yet ſincere and tender Conſciences conſidered; that we be no more a Reproach abroad, not a grief to the Reformed Church<g ref="char:EOLhyphen"/>es in other Nations. The Lord ſtrengthen all your hearts and hands for good; and, by You, do all the Three Kingdoms good.</p>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
